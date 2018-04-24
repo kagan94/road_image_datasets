@@ -1,6 +1,6 @@
 # My road image datasets
 
-1) Images scrapped from [ImageNet](http://www.image-net.org/synset?wnid=n02900459#) image catalog (resized to 250x250). 494 road images. Also, it contains the scrapper script. Examples of images:
+1) Images scrapped from [ImageNet](http://www.image-net.org/synset?wnid=n02900459#) image catalog (resized to 250x250). 494 road images. Also, it contains the scrapper script. Examples of images:  
 <img src="ImageNet/250x250/0.jpg" width="170" /> <img src="ImageNet/250x250/2.jpg" width="170" /> <img src="ImageNet/250x250/9.jpg" width="170" /> 
 
 2) Road images scrapped from Google, Bing, Yahoo, Flickr (the scapper program is "Extreme picture finder"). 5,390 road images. Also, contains script for validating images by min requred size.
